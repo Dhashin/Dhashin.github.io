@@ -6,3 +6,9 @@
 .headingPoker{
 	text-align: center;
 }
+
+.borderLogin{
+	border:2px solid;
+	border-color: DodgerBlue;
+
+}
